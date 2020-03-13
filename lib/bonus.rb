@@ -22,6 +22,7 @@ def bonus
 
   #code your solution here:
 epic_Tragedy[:montague][:hero][:status] = "dead"
+epic_Tragedy[:capulet][:heroine][:status] = "dead"
   
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
